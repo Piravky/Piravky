@@ -1,16 +1,33 @@
-### Hi there 👋
+# Ruslan Grishin (@Piravky)
 
-<!--
-**Piravky/Piravky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend / Python Developer • C++ (libs) • Algorithms  
+Open to work: Backend / Python
 
-Here are some ideas to get you started:
+## About
+- I build backend services and write clean, tested code.
+- Interested in: Python (FastAPI), async, databases, and C/C++ libraries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+**Python:** FastAPI, asyncio, pytest  
+**C/C++:** STL, OOP, templates  
+**Tools:** Git, Linux, Docker (basic)
+
+## Featured projects
+- **DimaTech test assignment (Python)** — solution with focus on readability & correctness  
+  Repo: `dimatech_test_piravky`
+- **ContainersLibrary (C)** — custom containers / data structures  
+  Repo: `ContainersLibrary`
+- **DecimalLibrary (C)** — decimal arithmetic library  
+  Repo: `DecimalLibrary`
+- **MatrixLibraryPlus (C++)** — matrix operations / linear algebra utilities  
+  Repo: `MatrixLibraryPlus`
+
+## What I’m improving now
+- Production-style Python (logging, config, typing, CI)
+- Database design + performance basics
+
+## Contacts
+- LinkedIn: [Piravky](https://www.linkedin.com/in/piravky/)
+- Telegram: [@r_v_grishin](https://t.me/r_v_grishin)
+- Email: [r.grishin@gmail.com](mailto:r.grishin54@gmail.com)
+
