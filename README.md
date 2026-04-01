@@ -8,7 +8,7 @@ Open to work: Backend / Python
 - Interested in: Python (FastAPI), async, databases, and C/C++ libraries.
 
 ## Tech stack
-**Python:** FastAPI, asyncio, pytest  
+**Python:** FastAPI, DRF, asyncio, pytest  
 **C/C++:** STL, OOP, templates  
 **Tools:** Git, Linux, Docker (basic)
 
